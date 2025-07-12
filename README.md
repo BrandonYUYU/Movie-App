@@ -1,9 +1,9 @@
 <h1 align="center">📝 Simple Movie App ✨</h1>
 
-Highlights:
+✨✨✨
 
-- 🧱 Backend : Java (Springboot) ||| Frontend : Javascript (React)
-- ✨ View movies, Trailers and Give Reviews
+- 🧱 Backend : Java (Springboot) & Frontend : Javascript (React)
+- ✨ View Movies, Trailers and Give Reviews
 - 🛠️ Build a Fully Functional REST API
 - Reference : freeCodeCamp.org
 
@@ -20,7 +20,7 @@ MONGO_PASSWORD=
 MONGO_CLUSTER=
 ```
 
-## 🔧 Run the Backend
+## 🔧 Maven for Backend
 
 ```
 Make sure setting up Maven
