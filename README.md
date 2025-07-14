@@ -24,6 +24,7 @@ MONGO_CLUSTER=
 
 ```
 Make sure setting up Maven
+Run the backend
 ```
 
 ## 💻 Run the Frontend
